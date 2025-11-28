@@ -1,4 +1,4 @@
-# **Simple Study To-Do List (Python CLI)**
+# **Simple Study To-Do List**
 
 ## **Overview**
 
@@ -58,8 +58,6 @@ Choose (1-4):
 
 Follow the prompts to add, view, or update tasks.
 
----
-
 ## **Example Usage**
 
 ### **Adding a Task**
@@ -96,15 +94,11 @@ Result:
 2. Read science chapter 4 ✔️
 ```
 
----
-
 ## **Input Format**
 
 * Tasks are simple text strings.
 * For marking tasks, enter a valid **task number** as shown in the list.
 * Invalid numbers or non-numeric input will show an error message.
-
----
 
 ## **Testing**
 
@@ -128,8 +122,6 @@ To automate tests:
   * `test_mark_done_valid()`
   * `test_mark_done_invalid_number()`
 
----
-
 ## **Suggested Improvements**
 
 * Add option to delete tasks
@@ -138,7 +130,3 @@ To automate tests:
 * Add a timestamp for each task
 * Implement categories (Assignments, Revision, Projects, etc.)
 * Add a GUI with Tkinter or a simple web UI with Flask
-
----
-
-If you want, I can also **generate a PDF or DOCX version** of this README.
