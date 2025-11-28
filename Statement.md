@@ -33,11 +33,3 @@ Students and small study groups often juggle assignments, revisions, and deadlin
 * **Mark Task as Done:** Let the user choose a task by number and append a done marker (✔️), with basic input validation.
 * **Simple CLI Flow:** A concise menu (Add / View / Mark Done / Exit) with clear prompts and feedback messages for ease of use.
 * **Beginner-Friendly Code:** Function-separated logic (`add_task`, `view_tasks`, `mark_done`, `main`) that’s easy to read, test, and refactor.
-
----
-
-If you'd like, I can:
-
-* convert this into a properly formatted **.docx** or **PDF** (I can generate it now),
-* expand the scope into a short requirements document with UX notes, or
-* produce a version that includes sample user stories and acceptance tests. Which would you prefer?
